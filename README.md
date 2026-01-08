@@ -1,5 +1,5 @@
 # hardengkec ☸️🪨🧭
-hardengkec : Hardening GKE Cluster # PodSecurityPolicy 
+hardengkec : Hardening GKE Cluster # PodSecurityPolicy # DevSecOps # SSRF # PSA # RCE
 
 
 ## Objective
